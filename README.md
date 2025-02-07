@@ -1,16 +1,13 @@
 # beeinventor_interview
 
-A new Flutter project.
+Distributed Dictionary System Design
 
-## Getting Started
+## User can upload texts or books
+![screenshot](images/requirement-1.jpg)
 
-This project is a starting point for a Flutter application.
+## User can view the texts or books
+![screenshot](images/requirement-2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+## User should be able to search texts or books
+![screenshot](images/requirement-3.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
